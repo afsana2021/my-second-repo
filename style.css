@@ -1,19 +1,21 @@
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: Poppins, sans-serif;
+  margin: 0;
 }
 h1 {
   font-size: 50px;
-  color: aliceblue;
+  color: black;
 }
 
 h3 {
-  color: plum;
+  color: rgb(13, 13, 65);
 }
 p {
-  color: aliceblue;
+  color: black;
+  font-family: sans-serif;
 }
 .Black-color {
-  color: black;
+  color: orange;
 }
 section {
   display: flex;
@@ -31,7 +33,11 @@ section {
   background-image: linear-gradient(orange, tomato);
   padding: 10 px 40 px;
   color: white;
+  font-family: sans-serif;
   font-weight: 700;
   font-size: 20px;
   border-radius: 5px;
+}
+.top-banner {
+  background-image: url(top-banner.png);
 }
