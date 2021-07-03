@@ -1,5 +1,4 @@
 body {
-  background-color: darkslategray;
   font-family: "Poppins", sans-serif;
 }
 h1 {
@@ -26,4 +25,13 @@ section {
 .half-width img {
   width: 90%;
   padding-top: 10%;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 10 px 40 px;
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  border-radius: 5px;
 }
