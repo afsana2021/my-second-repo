@@ -1,5 +1,5 @@
 body {
-  font-family: Poppins, sans-serif;
+  font-family: "Poppins", sans-serif;
   margin: 0;
 }
 h1 {
@@ -39,9 +39,7 @@ p {
   background-image: linear-gradient(orange, tomato);
   padding: 10 px 40 px;
   color: white;
-  font-family: sans-serif;
   font-weight: 700;
-  font-size: 20px;
   border-radius: 5px;
 }
 .top-banner {
